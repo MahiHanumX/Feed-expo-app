@@ -1,5 +1,10 @@
 {
   "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "f22edc7b-6088-4dda-af22-02e998b32f87"
+      }
+    },
     "name": "Feed-app",
     "slug": "Feed-app",
     "version": "1.0.0",
