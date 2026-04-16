@@ -6,7 +6,7 @@
       }
     },
     "name": "Feed-app",
-    "slug": "Feed-app",
+    "slug": "feed-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
